@@ -2,6 +2,7 @@
 一个JQuery的分页插件
 ### [原地址](https://www.jq22.com/jquery-info23323)
 
+ ```
 /**
  * layout 参数说明：
  * 
@@ -16,7 +17,7 @@
  * 
  * */
  
- ```
+
 new Pagination({
     element: '#pages', // 渲染的容器  [必填]
     type: 1, // 样式类型，默认1 ，目前可选 [1,2] 可自行增加样式   [非必填]
