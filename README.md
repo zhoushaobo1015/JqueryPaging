@@ -15,6 +15,8 @@
  * jumper： 输入框跳转（包含事件：失去焦点，回车）触发
  * 
  * */
+ 
+ ```
 new Pagination({
     element: '#pages', // 渲染的容器  [必填]
     type: 1, // 样式类型，默认1 ，目前可选 [1,2] 可自行增加样式   [非必填]
@@ -33,3 +35,4 @@ new Pagination({
         console.log(index, pageSize);
     }
 });
+```
