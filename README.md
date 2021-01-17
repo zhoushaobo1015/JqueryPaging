@@ -1,6 +1,6 @@
 # JqueryPaging
 一个JQuery的分页插件
-### [原地址](https://www.jq22.com/jquery-info23323)
+### [原作者地址](https://www.jq22.com/jquery-info23323)
 
  ```
 /**
